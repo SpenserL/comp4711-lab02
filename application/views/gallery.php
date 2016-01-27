@@ -1,4 +1,3 @@
-
     <table cols="3" class="gallery">
         <tr>
             <td class="oneimage">
